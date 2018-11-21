@@ -1,0 +1,5 @@
+Host caen
+    Hostname login.engin.umich.edu
+    User jasmlau
+    Compression yes
+    
